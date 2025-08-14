@@ -54,4 +54,4 @@ Start by opening your terminal or command prompt.
 
 ## API Documentation
 
-[Link API Documentation](https://tamanata-api-user.apidog.io)
+https://tamanata-api-user.apidog.io
