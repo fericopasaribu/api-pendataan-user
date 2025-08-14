@@ -47,3 +47,9 @@ Start by opening your terminal or command prompt.
     ```bash
     npm run start:dev
     ```
+
+---
+
+## API Documentation
+
+https://tamanata-api-user.apidog.io
