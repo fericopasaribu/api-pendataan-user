@@ -2,14 +2,14 @@
 
 Web API for managing user data built using NestJS..
 
+---
+
 ## Tech Stack
 
 - **Programming Language**:
   NestJS (v11.0.1)  
 - **ORM**: Prisma (v6.13.0) 
 - **Database**: PostgreSQL (v16.9)
-
----
 
 ## Setup Instructions
 
@@ -47,8 +47,6 @@ Start by opening your terminal or command prompt.
     ```bash
     npm run start:dev
     ```
-
----
 
 ## API Documentation
 
