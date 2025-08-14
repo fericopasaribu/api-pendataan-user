@@ -1,6 +1,6 @@
 # User Data Collection API
 
-Web API for managing user data built using NestJS..
+Web API for managing user data built using NestJS.
 
 ---
 
